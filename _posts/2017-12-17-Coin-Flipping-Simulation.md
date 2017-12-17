@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test
+title: Coin Flipping Simulation
 excerpt: When teaching anyone about probability, one of the most accessible and obvious examples of a random event is a coin flip.  I created a coin flipping simulation to show how the short-run and long-run behavior differs and forms the basis of the concept of probability.
 ---
 
