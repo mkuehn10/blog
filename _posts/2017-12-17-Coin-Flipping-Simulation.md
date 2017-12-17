@@ -47,7 +47,7 @@ coin_flip_simulation()
 ```
 
 
-![_config.yml]({{ site.baseurl }}/images/coinflip1.png)
+
 
 
     Largest probability after 10 flips: 0.7
@@ -55,6 +55,7 @@ coin_flip_simulation()
     Median probability after 10 flips: 0.6
 
 
+![_config.yml]({{ site.baseurl }}/images/coinflip1.png)
 The preceding code creates a function that runs 5 total simulations of flipping a coin 10 times.  The function keeps a running probability of the number of heads after each coin flip.  The plot shows how the running probability total varies over the 5 simulations and 10 coin flips in each simulation.  In the short-run of only flipping the coin 10 times, a wide array of probabilities result (from 0.4 to 0.7).  This shows that probability in the short-run has much more variability than the long-run probability.
 
 The following is the result of conducting the same simulation using more coin flips per simulation.
@@ -65,9 +66,11 @@ coin_flip_simulation(trials = 100)
 ```
 
 
-![_config.yml]({{ site.baseurl }}/images/coinflip2.png)
+
 
 
     Largest probability after 100 flips: 0.5
     Smallest probability after 100 flips: 0.42
     Median probability after 100 flips: 0.47
+    
+![_config.yml]({{ site.baseurl }}/images/coinflip2.png)
