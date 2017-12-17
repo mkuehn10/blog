@@ -6,9 +6,11 @@ excerpt: When teaching anyone about probability, one of the most accessible and 
 
 <!-- <html>
 <head><meta charset="utf-8" />
-<title>coin_flipping_simulation</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+<title>coin_flipping_simulation</title>
 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
 
 <style type="text/css">
     /*!
