@@ -47,7 +47,7 @@ coin_flip_simulation()
 ```
 
 
-![png](output_2_0.png)
+![_config.yml]({{ site.baseurl }}/images/coinflip1.png)
 
 
     Largest probability after 10 flips: 0.7
@@ -65,7 +65,7 @@ coin_flip_simulation(trials = 100)
 ```
 
 
-![png](output_4_0.png)
+![_config.yml]({{ site.baseurl }}/images/coinflip2.png)
 
 
     Largest probability after 100 flips: 0.5
