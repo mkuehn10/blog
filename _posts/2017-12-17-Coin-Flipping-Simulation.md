@@ -4,10 +4,11 @@ title: Coin Flipping Simulation
 excerpt: When teaching anyone about probability, one of the most accessible and obvious examples of a random event is a coin flip.  I created a coin flipping simulation to show how the short-run and long-run behavior differs and forms the basis of the concept of probability.
 ---
 
-<html>
+<!-- <html>
 <head><meta charset="utf-8" />
 <title>coin_flipping_simulation</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+-->
 
 <style type="text/css">
     /*!
